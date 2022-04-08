@@ -2,7 +2,7 @@
 
 perceptron implementation of pure python
 
-## fomula
+## formula
 If ∑ wixi >= 0 : 1
 
 else: -1
